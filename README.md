@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+![Техномаг](https://github.com/Senf-code/Senf-code/blob/f8ee83c1aefcc52e85477fc7fbb3ba9e7e86ec33/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BC%D0%B0%D0%B3.jpg)
 <!--
+https://github.com/Senf-code/Senf-code/blob/f8ee83c1aefcc52e85477fc7fbb3ba9e7e86ec33/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BC%D0%B0%D0%B3.jpg
+
 **Senf-code/Senf-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
