@@ -1,4 +1,4 @@
-## Hi there 👋
+## Приветствую смотрящих👋
 
 ![Техномаг](https://github.com/Senf-code/Senf-code/blob/f8ee83c1aefcc52e85477fc7fbb3ba9e7e86ec33/%D1%82%D0%B5%D1%85%D0%BD%D0%BE%D0%BC%D0%B0%D0%B3.jpg)
 <!--
